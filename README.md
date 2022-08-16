@@ -25,10 +25,16 @@ Navigating Github was a challenge. I struggled particularly with customizing the
 ## Results
 
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
-- There is a sharp increase of successful Theater Kickstarters in the month of May with a gradual decrease as the months progress. Based on the the data launching it would be best for Louise to launch her Kickstarter in the month of May. 
+- There is a sharp increase of successful Theater Kickstarters in the month of May with a gradual decrease as the months progress. Based on the the data launching it would be best for Louise to launch her Kickstarter in the month of May.
+- There are more successful outcomes than there are failed or canceled, except in the month of December. For whatever reason, December would be the month to avoid launching a Kickstarter.
 
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
+- The highest percentage of successful Kickstarters had a financial goal of $4999 or less. In general Plays that launched with a higher financial goal saw a lower chance of success; However, the sample size of higher goal Kickstarters are significantly less than those with lower financial goals. The data analysis would benefit from including more plays that had high financial goals to determine a more accurate trend line. 
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
+- As mentioned above one of the limitations I see is in the sample size for Theater Kickstarters. There is a lot of data for Kickstarters with lower financial goals, but very few Kickstarters with higher financial goals. Because of this, the data may not accurately depict the outcomes based on goals. 
+- This data set does not include promotions and adversitements made on social media, which could influence the success rate of these Kickstarters.
+- There are a number of other variables we could include in our data set (Number of backers, average donation, duration of campaign). Comparing and making corelations between other variables could result in more interesting conclusions.  
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
+- One possible graph we could create is to see the corelation between successful and failed Kickstarters based on the duration of the campaign. Are kickstarters more successfull the longer the campaign? Or does the opposite conclusion occur? For this kind of comparison we could use a bar graph where we measure the weeks of the campaign on the x-axis and the number of campaigns on the y-axis. There would be 2 bars represented each week showing the number of successful and failed Kickstarters. 
