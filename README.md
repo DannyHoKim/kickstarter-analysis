@@ -7,7 +7,8 @@ The data collected and organized in this project were created to help Louise mak
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date](
+![Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
+The data represented above, shows the correlation between the three various outcomes (Successful, Failed, or Canceled) kickstarter Theaters and the date it was launched. 
 
 ### Analysis of Outcomes Based on Goals
 
