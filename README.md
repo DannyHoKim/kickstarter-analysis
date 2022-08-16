@@ -14,7 +14,7 @@ The data represented above, shows the correlation between the three various outc
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](Resources/Outcomes_vs_goals.png)
 
-The data represented above, shows the percentage of successful, failed, or canceled Kickstarter plays based on their proposed financial goals. 
+The data represented above, shows the percentage of successful, failed, or canceled Kickstarter plays based on their financial goals. 
 ### Challenges and Difficulties Encountered
 
 ## Results
