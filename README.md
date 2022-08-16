@@ -7,6 +7,7 @@ The data collected and organized in this project were created to help Louise mak
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes Based on Launch Date](
 
 ### Analysis of Outcomes Based on Goals
 
