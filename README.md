@@ -16,7 +16,12 @@ The data represented above, shows the correlation between the three various outc
 
 The data represented above, shows the percentage of successful, failed, or canceled Kickstarter plays based on their financial goals. 
 ### Challenges and Difficulties Encountered
+There were 2 notable challenges I encountered during this challenge.
+#### Challenge 1: Human Error
+I frequently found myself backtracking my work because of error messages that prevented me from moving forward. I found that many times I had either written a formula incorrectly or used the incorrect formula. To correct these mistakes I used Google often to find solutions to the errors and the correct formulas needed for a particular outcome.
 
+#### Challenege 2: Github
+Navigating Github was a challenge. I struggled particularly with customizing the markdown page. It took me multiple attempts to add images and organize the README to look presetable. Resovling this challenge took a lot of trial and error. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
