@@ -12,7 +12,9 @@ The data collected and organized in this project were created to help Louise mak
 The data represented above, shows the correlation between the three various outcomes (Successful, Failed, or Canceled) of theater Kickstarters and the date that they were launched.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals](
+![Outcomes Based on Goals](Resources/Outcomes_vs_goals.png)
+
+The data represented above, shows the percentage of successful, failed, or canceled Kickstarter plays based on their proposed financial goals. 
 ### Challenges and Difficulties Encountered
 
 ## Results
