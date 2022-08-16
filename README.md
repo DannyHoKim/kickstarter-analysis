@@ -25,6 +25,7 @@ Navigating Github was a challenge. I struggled particularly with customizing the
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+      dsdsdsdsds
 
 - What can you conclude about the Outcomes based on Goals?
 
