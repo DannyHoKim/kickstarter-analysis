@@ -24,9 +24,8 @@ I frequently found myself backtracking my work because of error messages that pr
 Navigating Github was a challenge. I struggled particularly with customizing the markdown page. It took me multiple attempts to add images and organize the README to look presetable. Resovling this challenge took a lot of trial and error. 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-sdsdsdsdsds
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
+- There is a sharp increase of successful Theater Kickstarters in the month of May with a gradual decrease as the months progress. Based on the the data launching it would be best for Louise to launch her Kickstarter in the month of May. 
 
 - What can you conclude about the Outcomes based on Goals?
 
